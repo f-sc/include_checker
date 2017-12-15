@@ -6,6 +6,7 @@
 
 io::io()
 {
+	parse = new parser;
 }
 
 
